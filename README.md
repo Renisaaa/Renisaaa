@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renisaaa&label=Profile%20views&color=0e75b6&style=flat" alt="renisaaa" /> </p>
 
-- 🔭 I’m currently working on **Next.js**
+- 🔭 I’m currently working on **Next.js, React.js, React Native**
 
 - 🌱 I’m currently learning **Socket.io, TailwindCSS**
 
 - 📫 How to reach me **renisabhardwaj@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/10jsKSExbwiWE4Trs9eotjpYhXHtjAGdS/view?usp=sharing](https://drive.google.com/file/d/10jsKSExbwiWE4Trs9eotjpYhXHtjAGdS/view?usp=sharing)
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/10jsKSExbwiWE4Trs9eotjpYhXHtjAGdS/view?usp=sharing]([https://drive.google.com/file/d/10jsKSExbwiWE4Trs9eotjpYhXHtjAGdS/view?usp=sharing](https://drive.google.com/file/d/1kPGThxfFkXLkoT-VvutuDE2lak6IhhmG/view?usp=sharing)](https://drive.google.com/file/d/1kPGThxfFkXLkoT-VvutuDE2lak6IhhmG/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
